@@ -1,3 +1,14 @@
+~~~~
+|     ____      __                              _    __           __
+|    / __ \____/ /_  _______________  __  __   | |  / /__  ____  / /___  __________
+|   / / / / __  / / / / ___/ ___/ _ \/ / / /   | | / / _ \/ __ \/ __/ / / / ___/ _ \
+|  / /_/ / /_/ / /_/ (__  |__  )  __/ /_/ /    | |/ /  __/ / / / /_/ /_/ / /  /  __/
+|  \____/\__,_/\__, /____/____/\___/\__, /     |___/\___/_/ /_/\__/\__,_/_/   \___/
+|             /____/               /____/
+|
+| https://odysseyventure.com/
+~~~~
+
 # odyssey
 # Odyssey Token Features
 
@@ -223,7 +234,7 @@ Use the following settings on Remix to compile:
 * compiler: `v0.8.11+commit.d7f03943`
 * optimize: `true`
 * runs: `200`
-* evmVersion: `spuriousDragon`
+* evmVersion: `default`
 
 ### 2. Deploy OdysseyProject token.
 
@@ -245,7 +256,7 @@ Agree to terms and continue to next page. Enter the following settings:
 * optimization: `yes`
 * solidity contract code: copy/paste entire `OdysseyProject_flat.sol` into text area
 * misc settings / runs: `200`
-* misc settings / evmVersion: `spuriousDragon`
+* misc settings / evmVersion: `default`
 
 Prove you are not a robot and click `Verify and Publish`
 
